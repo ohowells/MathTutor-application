@@ -2,9 +2,9 @@ Partial implementation of a Math Tutor Educational application. The goal of this
 
 The software will provide some of the following key features:
 
--Implements 4 topics, each with 4-5 levels of competency. Topic 1 covers elementary algebra 
- and arithmetic operations, topic 2 involves evaluating equations and basic problem 
- solving, topic 3 binary arithmetic operations and topic 4 trigonometry.
+-Implements 4 topics, each with 4-5 levels of competency. Topic 1 covers elementary 
+ algebra and arithmetic operations, topic 2 involves evaluating equations and basic 
+ problem solving, topic 3 binary arithmetic operations and topic 4 trigonometry.
 	
 -To move from one level to another a student has to achieve a certain score.
 
